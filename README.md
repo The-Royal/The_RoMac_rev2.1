@@ -10,7 +10,7 @@ The RoMac is an independent Macro pad with full QMK Programability through the Q
 
 
 
-##Main Features Of Final RoMac Rev.2.1'
+## Main Features Of Final RoMac **Rev.2.1**
 
 
 
