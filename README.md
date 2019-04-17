@@ -34,12 +34,6 @@ The RoMac is an independent Macro pad with full QMK Programability through the Q
 
      > ALPS Type Switches - (**Requires Top Switch Plate for alignment of switches)
 
+# Build Guide:
 
-
-**Top Switch plate not included, DIY is possible since PCB is standard 19.05mm spacing.  DIY Plate can be made through
-
-- http://www.keyboard-layout-editor.com/#/
-
-- http://builder.swillkb.com/  
-
-- http://www.ponoko.com/home
+- [RoMac rev2.1 Build Guide](https://github.com/TheRoyalSweatshirt/The_RoMac_rev2.1/blob/master/Build_Guide/RoMac_rev2.1_En.md)
