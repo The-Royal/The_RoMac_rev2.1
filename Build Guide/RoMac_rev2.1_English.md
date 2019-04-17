@@ -33,4 +33,4 @@
 
 # The_Building of The_RoMac
 
-Follow This Guide and Your RoMac Should Look and Function Spectacularly
+[Follow This Visual/Contextual Build Guide and Your RoMac Should Look and Function Spectacularly](https://imgur.com/a/l24vgvC)
