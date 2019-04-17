@@ -31,7 +31,7 @@
 | Thin solder | Thinner Solder Keeps "Solder Gobs" at a minumum (1mm diameter 60/40 Is What I used) |
 | Small Electronics Screw Driver (Phillips-Head) | Used for Standoff/Spacer Screws |
 | Flush Cutters | Cleans up your Diode Leads more so than other methods |
-| 3D Printed Diode Bender | Makes Bending Diode Leads Super Easy and More uniform |
+| [3D Printed Diode Bender](https://github.com/TheRoyalSweatshirt/The_RoMac_rev2.1/blob/master/3D%20Printing%20Stuff/Keyboard%20Diode%20Bender%20V2.stl) | Makes Bending Diode Leads Super Easy and More uniform |
 
 
 # The_Building of The_RoMac: Imgur Album Build Guide
