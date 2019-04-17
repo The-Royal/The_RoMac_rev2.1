@@ -34,6 +34,6 @@
 | 3D Printed Diode Bender | Makes Bending Diode Leads Super Easy and More uniform |
 
 
-# The_Building of The_RoMac: A Visual/Contextual Imgur Album
+# The_Building of The_RoMac: Imgur Album Build Guide
 
 [Follow This Visual/Contextual Build Guide and Your RoMac Should Look and Function Spectacularly](https://imgur.com/a/l24vgvC)
