@@ -1,6 +1,6 @@
 # RoMac rev2.1
 
-![RoMac](https://i.imgur.com/JF8X51E.jpg)
+![RoMac](https://i.imgur.com/WIPdVO9.jpg)
 
 The RoMac is a “Plaid” Keyboard Inspired Macropad intended for use along side the Plaid or any other keyboard. 
 
