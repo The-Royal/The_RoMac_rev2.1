@@ -2,14 +2,44 @@
 
 ![RoMac](https://i.imgur.com/JF8X51E.jpg)
 
-A “Plaid” Inspired 12-Key (3x4) Macropad.
+The RoMac is a “Plaid” Keyboard Inspired Macropad intended for use along side the Plaid or any other keyboard. 
 
-- Keyboard Maintainer: [Garret G.](https://github.com/TheRoyalSweatshirt)
-- Hardware Supported: RoMac rev.1, rev.2, Pro Micro, Elite-C, Proton C, BlueMicro.
-- Hardware Availability: Through GB or Direct Message (If extra stock is available).
+The RoMac is an independent Macro pad with full QMK Programability through the QMK Configurator here:
 
-Make example for this keyboard (after setting up your build environment):
+• https://config.qmk.fm/#/romac/LAYOUT
 
-    make romac:default
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+##Main Features Of Final RoMac Rev.2.1'
+
+
+
+- Beautiful "Open-Faced" Design:
+
+     > All Electronics are on full display so as to show off the beauty of even our smallest functional components. 
+
+
+
+- ZigZag Main Controller Footprint Mounting:
+
+     > Out of the box "Hotswap-Controller" Functionality (No Need to Solder Main Controller) 
+
+
+
+- Supports:
+
+     > MX/MX Clone switches (**PCB Mount ONLY)
+
+     > Kailh Low-Profile Switches 
+
+     > ALPS Type Switches - (**Requires Top Switch Plate for alignment of switches)
+
+
+
+**Top Switch plate not included, DIY is possible since PCB is standard 19.05mm spacing.  DIY Plate can be made through
+
+- http://www.keyboard-layout-editor.com/#/
+
+- http://builder.swillkb.com/  
+
+- http://www.ponoko.com/home
