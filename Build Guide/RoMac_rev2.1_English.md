@@ -1,4 +1,4 @@
-# RoMac rev2.1 Build Guide (En)
+# RoMac rev2.1 Build Guide & Parts List (En)
 
 
 ## Parts/Pieces
@@ -18,7 +18,7 @@
 | Rubber Bumpon "Feet" | x4 |  |
 | Diodes | x12 | Through-Hole : 1N4148 |
 | Key Switches | x12 | Cherry MX/MX Clones & Kailh Low-Pro "Choc" Switches are both Compatible |
-| Key Caps | x12 | |
+| Key Caps | x12 | Whatever You like! |
 | USB Cable | x1 | Connector Varies Based on Micro Controller Choosen(USB-C/Micro USB|
 
 
@@ -27,10 +27,13 @@
 | Tool | Notes |
 | ---- | ---- |
 | Soldering Iron | Variable Temp is recommended.  Makes Soldering easier, and prevents "PCB Burn" |
-| Thin solder | Thinner Solder Keeps "Solder Gobs" at a minumum (.06mm-0.8mm diameter Is What I used) |
+| Brass Wool | Keeps your Iron Clean and Well Functioning.  Also produces cleaner & easier soldering job visually |
+| Thin solder | Thinner Solder Keeps "Solder Gobs" at a minumum (1mm diameter 60/40 Is What I used) |
+| Small Electronics Screw Driver (Phillips-Head) | Used for Standoff/Spacer Screws |
+| Flush Cutters | Cleans up your Diode Leads more so than other methods |
 | 3D Printed Diode Bender | Makes Bending Diode Leads Super Easy and More uniform |
 
 
-# The_Building of The_RoMac
+# The_Building of The_RoMac: A Visual/Contextual Imgur Album
 
 [Follow This Visual/Contextual Build Guide and Your RoMac Should Look and Function Spectacularly](https://imgur.com/a/l24vgvC)
