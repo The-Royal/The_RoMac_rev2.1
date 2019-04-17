@@ -19,7 +19,7 @@
 | Diodes | x12 | Through-Hole : 1N4148 |
 | Key Switches | x12 | Cherry MX/MX Clones & Kailh Low-Pro "Choc" Switches are both Compatible |
 | Key Caps | x12 | |
-| USB Cable | 1 | Connector Varies Based on Micro Controller Choosen(USB-C/Micro USB|
+| USB Cable | x1 | Connector Varies Based on Micro Controller Choosen(USB-C/Micro USB|
 
 
 ## *Soldering Required* - Tools Needed:
